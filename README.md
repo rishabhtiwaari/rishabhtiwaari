@@ -17,7 +17,7 @@ be>
 - I am a graduate student currently pursuing Master's in Business Analytics at UT Austin's McCombs School of Business.
 - Additionally, I am working with a startup as a Data Scientist as a part of my graduate program curriculum.
 - My undergrade major was Electronics and Communication Engineering, I graduated in 2019. Post graduation, I worked as a Product Managher for approximately 4 years before joining UT Austin.
-- I am looking for full time job opportunities in  United States. I am open to Data Scientist/Data Analyst/Consultant/Product Manager/Business Intelligence roles.Just reach out and we could work something out :). Here is [my resume]()
+- I am looking for full time job opportunities in  United States. I am open to Product Manager/Data Scientist/Data Analyst/Consultant/Business Intelligence roles.Just reach out and we could work something out :). Here is [my resume]()
 
 <br><br>
 
